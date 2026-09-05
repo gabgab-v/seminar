@@ -3,4 +3,3 @@ console.log('Add more words');
 console.log('Add more words');
 console.log('Add more words');
 console.log('Add more words');
-console.log('git revert')
